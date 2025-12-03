@@ -45,13 +45,6 @@
 
 ---
 
-## 💼 Experience & Projects
-
-### 🏢 IT Helpdesk Collaborator
-**FPT University Can Tho**
-* Supported students and staff with technical issues, gaining hands-on troubleshooting experience.
-* Maintained lab environments and network connectivity.
-
 ### 🧪 Cyber Security Projects
 **TryHackMe & Personal Labs**
 * **Cyber Security 101:** Completed comprehensive learning paths on TryHackMe.
