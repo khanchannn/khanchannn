@@ -23,7 +23,7 @@
 - 🔭 **Focus:** I’m currently working on honing my skills in **System Hardening**, **Cloud Security (AWS/Azure)**, and **Automation**.
 - 🛡️ **Blue Team:** Experienced with threat analysis, vulnerability assessment, and firewall management.
 - ⚙️ **DevOps/SysAdmin:** Proficient in Linux/Windows Server administration, Virtualization, and basic Scripting.
-- 💬 **Languages:** English (TOEIC 800 equiv), French (B1), Japanese (N5).
+- 💬 **Languages:** English (TOEIC 800 equiv).
 
 ---
 
